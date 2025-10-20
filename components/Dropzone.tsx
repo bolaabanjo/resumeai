@@ -34,7 +34,7 @@ export default function Dropzone({ onFile }: Props) {
         }`}
         >
             <input {...getInputProps()} />
-            <p className="m-0">Drag & drop a PDF / DOCX / TXT resume, or click to select a file.</p>
+            <p className="m-0">Drag & Drop a PDF / DOCX / TXT Resume, or Click To Select a File.</p>
         </div>
     )
 }

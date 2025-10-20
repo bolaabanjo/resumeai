@@ -1,0 +1,11 @@
+John Doe
+Software Engineer
+Experience
+- Built REST APIs in Node.js serving 200k monthly users (Jan 2021 - Present)
+- Reduced latency by 30% on critical endpoints.
+
+Education
+BSc Computer Science, University of Somewhere (2016 - 2020)
+
+Skills
+Node.js, Express, PostgreSQL, Redis, Docker, CI/CD

@@ -33,8 +33,8 @@ export default function Page() {
       </section>
 
       <section>
-        <label className="block text-sm font-medium mb-1">Parsed text</label>
-        <textarea value={resumeText} readOnly className="w-full h-72 p-2 border rounded-4xl" />
+        <label className="block text-sm font-medium mb-4">Parsed text</label>
+        <textarea value={resumeText} readOnly className="w-full h-72 p-2 border rounded-4xl"/>
       </section>
 
       {loading && <p className="mt-2 text-sm">Parsing file...</p>}
